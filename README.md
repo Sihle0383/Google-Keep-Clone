@@ -14,7 +14,7 @@ Pixel-perfect Google Keep UI built with vanilla HTML, CSS & JavaScript.
 - Uses Material Icons
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.PNG)
 
 ## Tech Used
 HTML5, CSS3, JavaScript
