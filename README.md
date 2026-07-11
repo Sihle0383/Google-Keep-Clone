@@ -20,4 +20,4 @@ Pixel-perfect Google Keep UI built with vanilla HTML, CSS & JavaScript.
 HTML5, CSS3, JavaScript
 
 # Live link
-https://github.com/Sihle0383/Google-Keep-Clone
+https://sihle0383.github.io/Google-Keep-Clone
