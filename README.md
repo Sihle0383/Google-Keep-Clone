@@ -8,7 +8,7 @@ Pixel-perfect Google Keep UI built with vanilla HTML, CSS & JavaScript.
 3. No installation needed - it runs offline
 
 ## Features
-- Responsive sidebar
+- Responsive
 - Note input and grid layout
 - Search bar
 - Uses Material Icons
@@ -17,4 +17,7 @@ Pixel-perfect Google Keep UI built with vanilla HTML, CSS & JavaScript.
 ![App Screenshot](screenshot.png)
 
 ## Tech Used
-HTML5, CSS3, Vanilla JavaScript
+HTML5, CSS3, JavaScript
+
+# Live link
+https://github.com/Sihle0383/Google-Keep-Clone
